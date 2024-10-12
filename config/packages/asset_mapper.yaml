@@ -5,4 +5,4 @@ framework:
             - assets/
 
 sensiolabs_typescript:
-    source_dir: ['%kernel.project_dir%/assets/typescript']
+    source_dir: ['%kernel.project_dir%/assets/controllers']
